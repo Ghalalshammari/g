@@ -36,6 +36,7 @@ const onSave = () => {
     };
     Alert.alert('Entered data', JSON.stringify(data));
   };
+  {}
 
   let items= [
     {key: "Male",value:"Male"},{key:"Female", value:"Female"} ]
